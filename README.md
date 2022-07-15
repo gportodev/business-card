@@ -1,16 +1,25 @@
-# business_card
+<h1 align="center">Business Card</h1>
 
-A new Flutter project.
+<h3 align="center">Easy way to connect your clients to you!</h3>
 
-## Getting Started
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/34238796/179283066-7c0f3c1f-5163-45ee-b03a-33bd7e055337.png)
+ 
+</div>
 
-This project is a starting point for a Flutter application.
+## How To Use
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+# Clone 
+$ git clone https://github.com/gportodev/business_card.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Go into
+$ cd business_card
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Install dependencies
+$ flutter packages get
+
+# Run app
+$ flutter run
+```
